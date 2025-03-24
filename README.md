@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Folaranmi Olanrewaju</h1>
 
-<h3 align="center">A backend developer, athlete, guitarist, <a href='https://youtube.com/@elliottchong'  target="_blank">content creator</a> and problem solver from Nigeria</h3>
+<h3 align="center">A backend developer, athlete, guitarist, <a href='https://youtube.com/@watchmecodee'  target="_blank">content creator</a> and problem solver from Nigeria</h3>
 <!-- <h3 align="center">Founding & Lead engineer at <a href="https://www.linkedin.com/company/cascading-ai/">Cascading AI (YC 2023)</a></h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fohlarbee&label=Profile%20views&color=0e75b6&style=flat" alt="fohlarbee" /> </p>
