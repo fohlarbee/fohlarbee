@@ -40,7 +40,7 @@ Here is my [CV](https://drive.google.com/file/d/1nb5ALW8wOV-ciIC_rxPlfFHKz3K1xCr
 
 [# ⭐️ My Setup ⚡️]: #
 
-[![Setup](https://github.com/PythonHacker24/PythonHacker24/blob/main/2025-02-04_23-29-53.png?raw=true)]: #
+
 
 # 📊 GitHub Stats: 📈
 
