@@ -4,11 +4,11 @@
 <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
 </p>
 
-<h2 align=center> Proudly, a Gopher </h2>
+<h2 align=center> Proudly, a Gopher and  big fan of <a href="https://github.com/PythonHacker24">Aditya Patil</a> </h2>
 
 <p align=center> <b> Getting 0.5% better at programming and and intellectual thinking everyday </b></p>
 
-<p align=center>Learn all about me and my projects: <a href="https://my-portfolio-beta-three-33.vercel.app/">Portfolio</a></p>
+<p align=center>Learn all about me and my projects: <a href="https://my-portfolio-beta-three-33.vercel.app">Portfolio</a></p>
 
 <p align=center> Know more about WelthAI: <a href="https://welth-eta-jade.vercel.app/">WelthAI</a></p>
 
