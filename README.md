@@ -24,7 +24,7 @@
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
 🔥 <b> 
-AI FullStack Engineer💻| I integrate AI into modern web and mobile applications | Backend Engineer | Algorithm enthusiast 📊 | Guitarist & Singer 🎸🎤 | Making code & music, one line at a time. </b>
+FullStack AI Engineer💻| I integrate AI into modern web and mobile applications | Backend Engineer | Algorithm enthusiast 📊 | Guitarist & Singer 🎸🎤 | Making code & music, one line at a time. </b>
 
 🥷 <b> I am a system design expert and a Go developer...I just love Go </b>
 
