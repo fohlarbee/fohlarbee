@@ -36,7 +36,7 @@ FullStack AI Engineer💻| I integrate AI into modern web and mobile application
 
 🔋 <b> I love family </b>
 
-Here is my [CV](https://drive.google.com/file/d/1nb5ALW8wOV-ciIC_rxPlfFHKz3K1xCrC/view?usp=drive_link)
+Download my [CV](https://devfola.vercel.app)
 
 [# ⭐️ My Setup ⚡️]: #
 
