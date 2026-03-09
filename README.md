@@ -95,6 +95,6 @@ Netflix, Moviebox, or YouTube.
 
 <div align="center">
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffohlarbee)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/fohlarbee?style=flat&display=true&color=blue)
 
 </div>
