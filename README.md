@@ -37,7 +37,7 @@ Full-Stack Engineer with **4.5+ years** delivering production web and mobile app
 | **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) |
 | **Backend**   | NestJS · Node.js · System design · Microservices · REST APIs |
 | **Frontend**  | React · Next.js · React Native |
-| **AI / ML**   | LangChain · LangGraph · CrewAI · RAG · Vector DBs · OpenAI · Gemini |
+| **AI / ML**   | LangChain · LangGraph · CrewAI · RAG · Vector DBs · OpenAI · Gemini · Claude |
 | **Databases** | PostgreSQL · MongoDB · MySQL · Supabase · SQLite |
 | **DevOps**    | Docker · CI/CD · AWS · Render · Railway |
 
