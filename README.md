@@ -1,76 +1,100 @@
-<h1 align=center> ❄️ System Design Expert - ✨ Olanrewaju Samuel Abimbola ✨  - Developer ❄️ </h1>
+<div align="center">
 
-<p align=center>
-<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
-</p>
+# Olanrewaju Samuel Folaranmi
 
-<h2 align=center> Proudly, a Gopher and  big fan of <a href="https://github.com/PythonHacker24">Aditya Patil</a> </h2>
+**AI Engineer · Full-Stack Developer · Golang & Python**
 
-<p align=center> <b> Getting 0.5% better at programming and and intellectual thinking everyday </b></p>
+*Building LLM-powered products, autonomous agents, and RAG systems that solve real-world problems.*
 
-<p align=center>Learn all about me and my projects: <a href="https://my-portfolio-beta-three-33.vercel.app">Portfolio</a></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-devfola.vercel.app-00ADD8?style=for-the-badge&logo=vercel&logoColor=white)](https://devfola.vercel.app)
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge)](https://devfola.vercel.app/Olanrewaju-Samuel-Folaranmi-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-olanrewaju-abimbola-037212255)
+[![Twitter](https://img.shields.io/badge/Twitter-@fohlarbeefb-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fohlarbeefb)
 
-<p align=center> Know more about WelthAI: <a href="https://welth-eta-jade.vercel.app/">WelthAI</a></p>
-
-| **Category**                  | **Tech Stack**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Languages  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white) |
-
-
-## 🔎 About me 🔎
-
-<h3 align=center> 🏃‍♂️ <i> Hustler Life Forever </i> 🥤 </h3>
-
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
-
-🔥 <b> 
-FullStack AI Engineer💻| I integrate AI into modern web and mobile applications | Backend Engineer | Algorithm enthusiast 📊 | Guitarist & Singer 🎸🎤 | Making code & music, one line at a time. </b>
-
-🥷 <b> I am a system design expert and a Go developer...I just love Go </b>
-
-🛠️ <b> I love to travel </b>
-
-🔍 <b> B.Sc Computer science </b>
-
-💾 <b>I spend a lot of time building and designing backend systems </b>
-
-🔋 <b> I love family </b>
-
-Download my [CV](https://devfola.vercel.app)
-
-[# ⭐️ My Setup ⚡️]: #
-
-
-
-# 📊 GitHub Stats: 📈
-
-![BahddevFola GitHub stats](https://github-readme-stats.vercel.app/api?username=fohlarbee&show_icons=true&theme=tokyonight)
+</div>
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fohlarbee&theme=tokyonight)
 
-## 🏆 GitHub Trophies ✨
-![](https://github-profile-trophy.vercel.app/?username=fohlarbee&theme=tokyonight&no-frame=false&no-bg=true&margin-w)
+## About Me
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffohlarbee
-)
+Full-Stack Engineer with **4.5+ years** delivering production web and mobile applications, now specialising in **AI Engineering**. I build LLM-powered products, autonomous AI agents, and RAG systems using **LangChain**, **LangGraph**, **Python**, and **Golang**. Strong background in fintech, clean architecture, and cloud-ready systems — applying that engineering depth to AI-native product development.
 
-## 🤔 FAQs 🤔
+- **Backend & system design** — scalable services, microservices, REST APIs
+- **AI / ML** — RAG, AI agents, prompt engineering, vector DBs (Pinecone, pgvector)
+- **Languages** — **Golang** and **Python** are my primary languages; also TypeScript & JavaScript
+- **Education** — B.Sc. Computer Science · PMP · Certified Database Engineer (CS50)
 
-#### Which Code Editor do I use? 
-Cursor/Vscode. 
+*Getting 0.5% better at programming and systems thinking every day.*
 
-#### Which OS do I use? 
-I run a dual OS of Ubuntu and Windows. 
+---
 
-#### Why am I so diverse? 
-I do not cease to learn new things, I go up on youtube and Udemy watch a couple videos and buy some new courses. 
+## Languages & Tech Stack
 
-#### What more do I do outside my computer? 
-I love reading books, especially business, philosophy. I also enjoy playing chess.  
+### Languages (primary: Golang & Python)
 
-#### What do I do when I get bored? 
-I watch Netflix or Moviebox and YouTube. 
+| Category   | Technologies |
+|-----------|--------------|
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) |
+| **Backend**   | NestJS · Node.js · System design · Microservices · REST APIs |
+| **Frontend**  | React · Next.js · React Native |
+| **AI / ML**   | LangChain · LangGraph · CrewAI · RAG · Vector DBs · OpenAI · Gemini |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Supabase · SQLite |
+| **DevOps**    | Docker · CI/CD · AWS · Render · Railway |
 
-## 📚 My Favourite Books so far ✍️
-<i> Surrounded by idiots (Thomas Erikson), 48 Laws of power (Robert Greene), Clean Code  (Uncle bob), You don't know JS  (Kyle Simpson), Concurrency in Go ( Katherine Cox-Buday), Zero to one (Peter Thiel) </i>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fohlarbee&show_icons=true&theme=tokyonight)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fohlarbee&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=fohlarbee&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15)
+
+</div>
+
+---
+
+## Quick Links
+
+| | |
+|---|---|
+| **Portfolio** | [devfola.vercel.app](https://devfola.vercel.app) |
+| **Resume** | [Download PDF](https://devfola.vercel.app/Olanrewaju-Samuel-Folaranmi-resume.pdf) |
+| **WelthAI** | [welth-eta-jade.vercel.app](https://welth-eta-jade.vercel.app/) |
+| **Email** | [sammyola246@gmail.com](mailto:sammyola246@gmail.com) |
+
+---
+
+## FAQs
+
+**Which code editor do I use?**  
+Cursor / VS Code.
+
+**Which OS?**  
+Dual boot: Ubuntu and Windows.
+
+**Why so many technologies?**  
+I don’t stop learning — courses, YouTube, Udemy, and lots of building.
+
+**Outside of code?**  
+Reading (business, philosophy), chess, guitar, and family time.
+
+**When bored?**  
+Netflix, Moviebox, or YouTube.
+
+---
+
+## Favourite books
+
+*Surrounded by Idiots* (Thomas Erikson) · *48 Laws of Power* (Robert Greene) · *Clean Code* (Uncle Bob) · *You Don’t Know JS* (Kyle Simpson) · *Concurrency in Go* (Katherine Cox-Buday) · *Zero to One* (Peter Thiel)
+
+---
+
+<div align="center">
+
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffohlarbee)
+
+</div>
